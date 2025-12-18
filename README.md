@@ -384,6 +384,7 @@ Compass](https://www.mongodb.com/try/download/compass).
 ### 🖼️ Main App UI
 
 ![Main App UI](screenshots/main-ui.png)
+![Main App UI Notes](screenshots/main-ui-notes.png)
 
 ### 🖼️ MongoDB Compass
 
